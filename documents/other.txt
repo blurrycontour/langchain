@@ -1,1 +1,5 @@
-My best friend is Shiva.
+Bitcoin's current value is 12 USD.
+Ethereum's current value is 5.5 INR.
+Doge's current value is 7.5 INR.
+Shiba's current value is 1.1 GBP.
+Gold's current value is 10.1 SEK.
